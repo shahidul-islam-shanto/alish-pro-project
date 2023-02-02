@@ -10,10 +10,21 @@
 }
 .header nav a{
     text-decoration: none;
-    color: white;
+    color: rgb(106, 194, 238);
     margin-right: 20px;
     padding: 5px;
     font-size: 20px;
+}
+.btn-area{
+    background-color: black;
+    text-decoration: none;
+    color: rgb(106, 194, 238);
+    margin-right: 20px;
+    padding: 5px;
+    font-size: 20px;
+}
+.btn-area:hover{
+    background-color: lightgray;
 }
 .header nav a:hover{
     background-color: lightgray;
